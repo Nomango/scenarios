@@ -50,11 +50,11 @@
                 ],
                 "skills": ["git/reset", "git/log"],
                 "solutions": ["step3-solution.md"]
-            },
+            }
         ],
         "intro": {"text": "intro.md", "background": "setup.sh"},
         "finish": {"text": "finish.md"},
-        "assets": {"host01": [{"file": "", "target": "/tmp"}]},
+        "assets": {"host01": [{"file": "", "target": "/tmp"}]}
     },
     "backend": {"imageid": "vnc-ubuntu:2204"}
 }
